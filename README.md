@@ -27,13 +27,13 @@
 
 <br><br>
 
-- :school: Soy QA Enginner Jr, egresado de un bootcamp intensivo en Aseguramiento de Calidad de Software 
+- :school: Soy QA Enginner Jr, egresado de un bootcamp intensivo en Aseguramiento de la Calidad del Software 
 <!--- :trophy: 2x `ACPC` Finalist. -->
-- :technologist: Me gusta la idea de que la tecnologia tiene una solución para cada problema
-- :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
-- :student: I’m currently learning `Computer Science` and `Software Engineering`.
+- :technologist: Me gusta la idea de que la tecnologia tiene una solución para cada problema.
+- :computer: Considero que tengo los conocimientos necesarios para ser un tester competitivo.
+- :student: Actualmente estoy estudiando cursos sobre IA y su aplicación en el mundo TI.
 - :nerd_face: Always `me gusta aprender cosas nuevas.
-- :thinking: I’m currently open for a new `oportunidad de trabajo.
+- :thinking: I’m currently open for a new oportunidad de trabajo.
 <!-- - :boom: You can visit [MY WEBSITE](https://cutt.ly/Ahmed_Hossam_Website). -->
 <br>
 
@@ -96,7 +96,11 @@
    <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
   </a>   
   &emsp;
- <!-- <a href="https://www.w3schools.com/css/" target="_blank">
+  <a href="https://developer.android.com" target="_blank">
+   <img alt="Android Studio" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=plastic&logo=android-studio&logoColor=white">
+  </a>
+  
+   <!-- <a href="https://www.w3schools.com/css/" target="_blank">
     <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
   </a> 
   &emsp; -->
@@ -131,7 +135,9 @@
   &emsp; -->
     <a href="#"><img alt="Selenium" src="https://img.shields.io/badge/selenium-%2343B02A.svg?&style=plastic&logo=selenium&logoColor=white"></a>
     &emsp;
-   <!-- <a href="#"><img src="https://img.shields.io/badge/latex-%23008080.svg?&style=plastic&logo=latex&logoColor=white" /></a>
+	<a href="#"><img alt="Figma" img src="https://img.shields.io/badge/figma-F24E1E?style=plastic&logo=figma&logoColor=white"></a>	
+					
+   <!--<a href="#"><img src="https://img.shields.io/badge/latex-%23008080.svg?&style=plastic&logo=latex&logoColor=white" /></a>
     &emsp;
     <a href="#"><img src="https://img.shields.io/badge/django-%23092E20.svg?&style=plastic&logo=django&logoColor=white" /></a>
     &emsp;
