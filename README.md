@@ -32,7 +32,7 @@
 - :technologist: Me gusta la idea de que la tecnologia tiene una solución para cada problema.
 - :computer: Considero que tengo los conocimientos necesarios para ser un tester competitivo.
 - :student: Actualmente estoy tomando cursos sobre IA y su aplicación en el mundo TI.
-- :nerd_face: Always `me gusta aprender cosas nuevas.
+- :nerd_face: Always `me gusta aprender para contribuir en situaciones nuevas.
 - :thinking: I’m currently open for a new oportunidad de trabajo.
 <!-- - :boom: You can visit [MY WEBSITE](https://cutt.ly/Ahmed_Hossam_Website). -->
 <br>
