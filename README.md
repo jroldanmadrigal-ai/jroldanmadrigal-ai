@@ -28,7 +28,7 @@
 </p>
 	
 
-## 🛠️ Habilidades Tecnicas 
+## 🛠️ Habilidades Técnicas 
 
 ---
 
@@ -66,6 +66,16 @@
 </p>
 
 ---
+
+## 📘 Tecnologías que estoy aprendiendo
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/PyTest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Rest_API-005571?style=for-the-badge&logo=swagger&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/CI%2FCD-222222?style=for-the-badge&logo=githubactions&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Artificial_Intelligence-FF6A00?style=for-the-badge&logo=openai&logoColor=white"></a>
+</p>
+
 
 
 
