@@ -12,7 +12,6 @@
 - 🔎 Abierto a nuevas oportunidades como QA Engineer.
   
 
-<br> 
 ## 🌐 Redes & Contacto
 <p align="center">
   <a href="https://www.linkedin.com/in/juan-francisco-roldan-madrigal-qa/" target="_blank">
