@@ -57,6 +57,7 @@
   <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"></a>	
   <a href="#"><img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"></a>
 </p>
 
@@ -76,8 +77,7 @@
   <!-- <a href="#"><img src="https://img.shields.io/badge/Rest_API-005571?style=for-the-badge&logo=swagger&logoColor=white"></a> -->
   <a href="#"><img src="https://img.shields.io/badge/CI%2FCD-222222?style=for-the-badge&logo=githubactions&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/Artificial_Intelligence-FF6A00?style=for-the-badge&logo=openai&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"></a>	
-</p>
+ </p>
 
 
 
