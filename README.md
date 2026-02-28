@@ -7,7 +7,7 @@
 - 🎓 Soy QA Engineer Jr, formado en un bootcamp intensivo en Aseguramiento de la Calidad del Software.  
 - ⚙️ Me apasiona cómo la tecnología ofrece soluciones a problemas reales.  
 - 🧪 Tengo experiencia en testing funcional, diseño de casos de prueba, análisis de requisitos y manejo de herramientas para pruebas manuales y automatizadas.  
-- 🤖 Actualmente estudio Inteligencia Artificial aplicada al aseguramiento de la calidad.  
+- 🤖 Actualmente estudio Inteligencia Artificial aplicada al aseguramiento de la calidad del software.  
 - 🚀 Estoy en constante aprendizaje para aportar valor en cada proyecto.  
 - 🔎 Abierto a nuevas oportunidades como QA Engineer.
   
